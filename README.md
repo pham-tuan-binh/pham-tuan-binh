@@ -12,6 +12,8 @@
 
 <!--Intro start-->
 - 🔭 I’m a self-taught FullStack Engineer, currently studying as an Electrical Engineer.
+- I've previously worked at Ericsson as an Innovation Engineer and for Intel as a guest developer for their Intel CoFluent + Intel IPU.
+- Now I'm working at a Hungarian startup called Mindrove on Brain-Computer Interface. We have served large institutions in the world including MIT Media Lab and Havard Innovation Lab.
 - 🥶 I'm proficient in a range of technology from **Cloud (certified as an AWS Develop Associate)** to **Network (CCNA and 4G/5G Networking)** to **Digital IC design and web applications**.
 
 - 🌱 I’m currently learning to entertain myself in boring times.
