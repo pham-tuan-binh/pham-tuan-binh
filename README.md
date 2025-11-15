@@ -13,7 +13,11 @@
 <!--Intro start-->
 - 🔭 I’m a self-taught FullStack Engineer, currently studying as an Electrical Engineer. So technically speaking, I'm a full-stack full-stack engineer, who knows how to design transistors on silicon wafers up to training and deploying AI models lol.
   
-- 🧠 I'm working at a Hungarian startup called Mindrove on Brain-Computer Interface. We have served large institutions in the world including MIT Media Lab and Havard Innovation Lab.
+- 📝 I'm currently looking for work. Hit me up at binhpham@binhph.am if you want to talk.
+  
+- 🌱 I co-founded a startup called Human Computer Lab, but I have since left the company to chase my own explorations. We raised 500k USD from FR8 and South Park Commons in our pre-seed, built a few products, most notably LeLamp.
+  
+- 🧠 I previously worked at a Hungarian startup called Mindrove on Brain-Computer Interface. We have served large institutions in the world including MIT Media Lab and Havard Innovation Lab.
   
 - 🧑‍💻 I previously worked at Ericsson as an Innovation Engineer and for Intel as a guest developer for their Intel CoFluent + Intel IPU.
   
