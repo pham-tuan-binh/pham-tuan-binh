@@ -13,7 +13,7 @@
 <!--Intro start-->
 - 🔭 I’m a self-taught FullStack Engineer, currently studying as an Electrical Engineer. So technically speaking, I'm a full-stack full-stack engineer, who knows how to design transistors on silicon wafers up to training and deploying AI models lol.
   
-- 📝 I'm currently looking for work. Hit me up at binhpham@binhph.am if you want to talk.
+- 📝 I'm working at LiveKit on robotics. My focus is on low-latency inference for world models and VLA. Hit me up at binhpham@binhph.am if you want to talk.
   
 - 🌱 I co-founded a startup called Human Computer Lab, but I have since left the company to chase my own explorations. We raised 500k USD from FR8 and South Park Commons in our pre-seed, built a few products, most notably LeLamp.
   
