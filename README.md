@@ -11,7 +11,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m a self-taught FullStack Engineer, currently studying as an Electrical Engineer. So technically speaking, I'm a full-stack full-stack engineer, who knows how to design transistors on silicon wafers up to training and deploying AI models lol.
+- 🔭 I’m a self-taught FullStack Engineer (began coding C++ since 6th grade in 2016), but by degree, I'm an Electrical Engineer. So technically speaking, I'm a full-stack full-stack engineer, who knows how to design transistors on silicon wafers up to training and deploying AI models lol.
   
 - 📝 I'm working at LiveKit on robotics. My focus is on low-latency inference for world models and VLA. Hit me up at binhpham@binhph.am if you want to talk.
   
@@ -23,7 +23,7 @@
   
 - 🥶 I'm proficient in a range of technology from **Cloud (certified as an AWS Develop Associate)** to **Network (CCNA and 4G/5G Networking)** to **Digital IC design and web applications**.
 
-- 🌱 I’m currently learning to entertain myself in boring times.
+- 🌱 I’m currently learning to entertain myself in boring times. I write blogs on [https://garden.binhph.am] and have a decent youtube channel at [https://www.youtube.com/@build_with_binh].
 
 - 📝 I regularly write articles on [my technical blog](https://binhph.am)
 
