@@ -39,9 +39,9 @@
 
 <p>I previously worked at <a href="https://www.ericsson.com">Ericsson</a> as an Innovation Engineer and for <a href="https://www.intel.com">Intel</a> as a guest developer for their Intel CoFluent + Intel IPU. During the same time I also have offers to work at <a href="https://www.arm.com">Arm</a> for maintaining android for their chips but I declined.</p>
 
-<p>I used to launch products on <a href="https://www.producthunt.com/@binhpham">Product Hunt</a>, to which I've been featured 3 times. I also was a part of multiple hacker houses and fellowships around the world, from <a href="https://www.fr8.vc">FR8</a>, to <a href="https://sf2.sh">The Residency</a>, to <a href="https://joinpluto.io/">LocalHost</a>, to <a href="https://bevisioneers.world/">BeVisionaries Mercedes Benz</a> and <a href="https://www.southparkcommons.com">South Park Commons</a>.</p>
+<p>I was also a interaction design contractor, I used to do contracts for <a href="[https://joinpluto.io/](https://www.unitree.com/)">Unitree</a> and a few well known startups in Silicon Valley (due to NDAs, I can't mention their name).</p>
 
-<p>I was also a contractor in interaction design, I used to do contracts for <a href="[https://joinpluto.io/](https://www.unitree.com/)">Unitree</a> and a few well known startups in Silicon Valley (due to NDAs, I can't mention their name).</p>
+<p>I used to launch products on <a href="https://www.producthunt.com/@binhpham">Product Hunt</a>, to which I've been featured 3 times. I also was a part of multiple hacker houses and fellowships around the world, from <a href="https://www.fr8.vc">FR8</a>, to <a href="https://sf2.sh">The Residency</a>, to <a href="https://joinpluto.io/">LocalHost</a>, to <a href="https://bevisioneers.world/">BeVisionaries Mercedes Benz</a> and <a href="https://www.southparkcommons.com">South Park Commons</a>.</p>
 
 <p>I'm proficient in a range of technology from <b>Cloud (certified as an AWS Developer Associate, the youngest in Vietnam actually, got it when I was 18)</b> to <b>Network (CCNA and 4G/5G Networking)</b> to <b>Digital IC design and web applications</b>.</p>
 
