@@ -1,52 +1,55 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">hi, i'm binh and you're stalking my github.</h1></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m a self-taught FullStack Engineer (began coding C++ since 6th grade in 2016), but by degree, I'm an Electrical Engineer. So technically speaking, I'm a full-stack full-stack engineer, who knows how to design transistors on silicon wafers up to training and deploying AI models LOL.
-  
-- 📝 I'm working at LiveKit on robotics. My focus is on low-latency inference for world models and VLA. Hit me up at binhpham@binhph.am if you want to talk.
-  
-- 🌱 I co-founded a startup called Human Computer Lab, but I have since left the company to chase my own explorations. We raised 500k USD from FR8 and South Park Commons in our pre-seed, built a few products, most notably LeLamp.
-  
-- 🧠 I previously worked at a Hungarian startup called Mindrove on Brain-Computer Interface. We have served large institutions in the world including MIT Media Lab and Havard Innovation Lab.
-  
-- 🧑‍💻 I previously worked at Ericsson as an Innovation Engineer and for Intel as a guest developer for their Intel CoFluent + Intel IPU.
-  
-- 🥶 I'm proficient in a range of technology from **Cloud (certified as an AWS Develop Associate, the youngest in vietnam actually, got it when i was 18)** to **Network (CCNA and 4G/5G Networking)** to **Digital IC design and web applications**.
-
-- 🌱 I’m currently learning to entertain myself in boring times. I write blogs on https://garden.binhph.am and have a decent youtube channel at https://www.youtube.com/@build_with_binh. You can check my portfolio here as well https://binhph.am (it got featured on awwward).
-
-- 💬 Ask me about anything in this world that I can find on Google.
-
-- 📫 Feel free to reach me out **binhpham@binhph.am**
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pham-tuan-binh&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pham-tuan-binh&hide_border=false" /> 
-  
+<!--- stats (start) -->
+<table border="0">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=pham-tuan-binh&show_icons=true&count_private=true" />
 </td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pham-tuan-binh&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<td>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pham-tuan-binh&hide_border=false" />
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-</p>        
-<!--- stats (end) -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">hi, i'm binh and you're stalking my github.</h1></summary>
+  </ul>
+</div>
+
+<p>
+  <a href="https://binhph.am">portfolio</a> ·
+  <a href="https://garden.binhph.am">blog</a> ·
+  <a href="https://www.youtube.com/@build_with_binh">youtube</a> ·
+  <a href="https://x.com/pham_blnh">x</a> ·
+  <a href="https://www.linkedin.com/in/pham-tuan-binh/">linkedin</a>
+</p>
+
+<!--Intro start-->
+<p>I'm a self-taught FullStack Engineer: began coding C++ since 6th grade in 2016 and worked professionally in varius domains since. However, by degree, I'm an Electrical Engineer (summa cum laude at Budapest University of Economics and Technology). So technically speaking, I'm a full-stack full-stack engineer, who knows how to design transistors on silicon wafers up to training and deploying AI models LOL.</p>
+
+<p>I'm working at <a href="https://livekit.io">LiveKit</a> on robotics. My focus is on low-latency inference for world models and VLA.</p>
+
+<h3>History</h3>
+
+<p>I co-founded a startup called <a href="https://humancomputerlab.com">Human Computer Lab</a>, but I have since left the company to chase my own explorations. We raised 500k USD from <a href="https://www.fr8.vc">FR8</a> and <a href="https://www.southparkcommons.com">South Park Commons</a> in our pre-seed, built a few products, most notably LeLamp.</p>
+
+<p>I previously worked at a Hungarian startup called <a href="https://mindrove.com">Mindrove</a> on Brain-Computer Interface. We have served large institutions in the world including <a href="https://www.media.mit.edu">MIT Media Lab</a> and <a href="https://innovationlabs.harvard.edu">Harvard Innovation Lab</a>.</p>
+
+<p>I previously worked at <a href="https://www.ericsson.com">Ericsson</a> as an Innovation Engineer and for <a href="https://www.intel.com">Intel</a> as a guest developer for their Intel CoFluent + Intel IPU. During the same time I also have offers to work at <a href="https://www.arm.com">Arm</a> for maintaining android for their chips but I declined.</p>
+
+<p>I used to launch products on <a href="https://www.producthunt.com/@binhpham">Product Hunt</a>, to which I've been featured 3 times. I also was a part of multiple hacker houses and fellowships around the world, from <a href="https://www.fr8.vc">FR8</a>, to <a href="https://sf2.sh">The Residency</a>, to <a href="https://joinpluto.io/">LocalHost</a>, to <a href="https://bevisioneers.world/">BeVisionaries Mercedes Benz</a> and <a href="https://www.southparkcommons.com">South Park Commons</a>.</p>
+
+<p>I was also a contractor in interaction design, I used to do contracts for <a href="[https://joinpluto.io/](https://www.unitree.com/)">Unitree</a> and a few well known startups in Silicon Valley (due to NDAs, I can't mention their name).</p>
+
+<p>I'm proficient in a range of technology from <b>Cloud (certified as an AWS Developer Associate, the youngest in Vietnam actually, got it when I was 18)</b> to <b>Network (CCNA and 4G/5G Networking)</b> to <b>Digital IC design and web applications</b>.</p>
+
+<h3>Other Interests</h3>
+
+<p>I'm currently learning to entertain myself in boring times. I write blogs on https://garden.binhph.am and have a decent YouTube channel at https://www.youtube.com/@build_with_binh. You can check my portfolio here as well https://binhph.am (it got featured on awwwards).</p>
+
+<h3>Contact</h3>
+
+<p>Feel free to reach me out at binhpham@binhph.am</p>
+<!--Intro end-->
