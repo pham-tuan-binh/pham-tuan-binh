@@ -27,7 +27,7 @@
 </p>
 
 <!--Intro start-->
-<p>I'm a self-taught FullStack Engineer: began coding C++ since 6th grade in 2016 and worked professionally in varius domains since. However, by degree, I'm an Electrical Engineer (summa cum laude at Budapest University of Economics and Technology). So technically speaking, I'm a full-stack full-stack engineer, who knows how to design transistors on silicon wafers up to training and deploying AI models LOL.</p>
+<p>I'm a self-taught Software Engineer: began coding C++ since 6th grade in 2016 and worked professionally in varius domains since. However, by degree, I'm an Electrical Engineer (summa cum laude at Budapest University of Economics and Technology). So technically speaking, I'm a full-stack full-stack engineer, who knows how to design transistors on silicon wafers up to training and deploying AI models LOL.</p>
 
 <p>I'm working at <a href="https://livekit.io">LiveKit</a> on robotics. My focus is on low-latency inference for world models and VLA.</p>
 
