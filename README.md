@@ -37,7 +37,7 @@
 
 <p>I previously worked at a Hungarian startup called <a href="https://mindrove.com">Mindrove</a> on Brain-Computer Interface. We have served large institutions in the world including <a href="https://www.media.mit.edu">MIT Media Lab</a> and <a href="https://innovationlabs.harvard.edu">Harvard Innovation Lab</a>.</p>
 
-<p>I previously worked at <a href="https://www.ericsson.com">Ericsson</a> as an Innovation Engineer and for <a href="https://www.intel.com">Intel</a> as a guest developer for their Intel CoFluent + Intel IPU. During the same time I also have offers to work at <a href="https://www.arm.com">Arm</a> for maintaining android for their chips but I declined.</p>
+<p>I previously worked at <a href="https://www.ericsson.com">Ericsson</a> as an Innovation Engineer and for <a href="https://www.intel.com">Intel</a> as a guest developer for their Intel CoFluent + Intel IPU. During the same time, I also have offers to work at <a href="https://www.arm.com">Arm</a> to maintain android for their IP but I declined.</p>
 
 <p>I was also a interaction design contractor, I used to do contracts for <a href="[https://joinpluto.io/](https://www.unitree.com/)">Unitree</a> and a few well known startups in Silicon Valley (due to NDAs, I can't mention their name).</p>
 
