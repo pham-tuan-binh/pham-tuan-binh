@@ -1,16 +1,3 @@
-<!--- stats (start) -->
-<table border="0">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=pham-tuan-binh&show_icons=true&count_private=true" />
-</td>
-<td>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pham-tuan-binh&hide_border=false" />
-</td>
-</tr>
-</table>
-<!--- stats (end) -->
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
