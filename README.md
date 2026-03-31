@@ -38,5 +38,5 @@
 
 <h3>Contact</h3>
 
-<p>Feel free to reach out to meat binhpham@binhph.am</p>
+<p>Feel free to reach out to me at binhpham@binhph.am</p>
 <!--Intro end-->
