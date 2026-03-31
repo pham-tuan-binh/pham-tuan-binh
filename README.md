@@ -33,8 +33,14 @@
 <p>I'm proficient in a range of technology from <b>Cloud (certified as an AWS Developer Associate, the youngest in Vietnam actually, got it when I was 18)</b> to <b>Network (CCNA and 4G/5G Networking)</b> to <b>Digital IC design and web applications</b>.</p>
 
 <h3>Other Interests</h3>
+  
+<p>I write blogs on https://garden.binhph.am and have a decent YouTube channel at https://www.youtube.com/@build_with_binh. Through these, I have partnered with large brands in China (SeeedStudio, NextPCB, DFRobot, etc) and became a serious part-time content creator.</p>
 
-<p>I'm currently learning to entertain myself in boring times. I write blogs on https://garden.binhph.am and have a decent YouTube channel at https://www.youtube.com/@build_with_binh. Through these, I have partnered with large brands in China e.g. SeeedStudio, NextPCB, DFRobot, etc and became a serious part-time content creator. You can check my portfolio here as well https://binhph.am (it got featured on awwwards).</p>
+<p>I like photography and used to be a big film geek. There is a certain beauty to the great mechanical design of analog cameras. One of such great design is the Olympus OM-1 which is my daily driver.</p> 
+
+<p>I am guilty of creative coding, of which my artworks have been featured on Domestika thrice (you can probrably say my entire history of work has been creative coding though).</p>
+  
+<p>You can check my portfolio here https://binhph.am (it got featured on awwwards btw).</p>
 
 <h3>Contact</h3>
 
