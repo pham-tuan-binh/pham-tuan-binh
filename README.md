@@ -36,9 +36,7 @@
   
 <p>I write blogs on https://garden.binhph.am and have a decent YouTube channel at https://www.youtube.com/@build_with_binh. Through these, I have partnered with large brands in China (SeeedStudio, NextPCB, DFRobot, etc) and became a serious part-time content creator.</p>
 
-<p>I like photography and used to be a big film geek. There is a certain beauty to the great mechanical design of analog cameras. One of such great design is the Olympus OM-1 which is my daily driver.</p> 
-
-<p>I am guilty of creative coding, of which my artworks have been featured on Domestika thrice (you can probrably say my entire history of work has been creative coding though).</p>
+<p>I like photography and used to be a big film geek. There is a certain beauty to the great mechanical design of analog cameras. One of such great design is the Olympus OM-1, my daily driver.</p> 
   
 <p>You can check my portfolio here https://binhph.am (it got featured on awwwards btw).</p>
 
