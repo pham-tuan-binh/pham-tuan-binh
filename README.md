@@ -34,9 +34,9 @@
 
 <h3>Other Interests</h3>
 
-<p>I'm currently learning to entertain myself in boring times. I write blogs on https://garden.binhph.am and have a decent YouTube channel at https://www.youtube.com/@build_with_binh. Through this, I'm have partneed with large brands in China i.e. SeeedStudio, NextPCB, DFRobot, etc. You can check my portfolio here as well https://binhph.am (it got featured on awwwards).</p>
+<p>I'm currently learning to entertain myself in boring times. I write blogs on https://garden.binhph.am and have a decent YouTube channel at https://www.youtube.com/@build_with_binh. Through these, I have partnered with large brands in China e.g. SeeedStudio, NextPCB, DFRobot, etc and became a serious part-time content creator. You can check my portfolio here as well https://binhph.am (it got featured on awwwards).</p>
 
 <h3>Contact</h3>
 
-<p>Feel free to reach me out at binhpham@binhph.am</p>
+<p>Feel free to reach out to meat binhpham@binhph.am</p>
 <!--Intro end-->
