@@ -20,7 +20,7 @@
 
 <h3>History</h3>
 
-<p>I co-founded a startup called <a href="https://humancomputerlab.com">Human Computer Lab</a>, but I have since left the company to chase my own explorations. We raised 500k USD from <a href="https://www.fr8.vc">FR8</a> and <a href="https://www.southparkcommons.com">South Park Commons</a> in our pre-seed, built a few products, most notably LeLamp.</p>
+<p>I co-founded a startup called <a href="https://humancomputerlab.com">Human Computer Lab</a>, but I have since left the company to chase my own explorations. We raised 500k USD from <a href="https://www.fr8.vc">FR8</a> and <a href="https://www.southparkcommons.com">South Park Commons</a> in our pre-seed, built a few products, most notably <a href="https://github.com/humancomputerlab/LeLamp">LeLamp</a>.</p>
 
 <p>I previously worked at a Hungarian startup called <a href="https://mindrove.com">Mindrove</a> on Brain-Computer Interface. We have served large institutions in the world including <a href="https://www.media.mit.edu">MIT Media Lab</a> and <a href="https://innovationlabs.harvard.edu">Harvard Innovation Lab</a>.</p>
 
