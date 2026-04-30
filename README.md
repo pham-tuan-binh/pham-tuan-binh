@@ -36,9 +36,9 @@
   
 <p>I write blogs on https://garden.binhph.am and have a decent YouTube channel at https://www.youtube.com/@build_with_binh. Through these, I have partnered with large brands in China (SeeedStudio, NextPCB, DFRobot, etc) and became a serious part-time content creator. My work has been featured on <a href="https://hackaday.com/2025/07/02/hack-swaps-keys-for-gang-signs-everyone-gets-in/">Hackaday</a>, <a href="https://www.xda-developers.com/glados-portal-control-smart-home/">XDA Developer</a>, <a href="https://www.hackster.io/news/it-s-alive-abfef9546c40.amp">Hackster.io</a>, <a href="https://www.tomshardware.com/raspberry-pi/raspberry-pi-zero/pi-zero-llm-usb-stick">Tom's Hardware</a>, etc.</p>
 
-<p>I like photography and used to be a big film geek. There is a certain beauty to the great mechanical design of analog cameras. One of such great design is the Olympus OM-1, my daily driver.</p> 
-  
-<p>You can check my portfolio here https://binhph.am (it got featured on awwwards btw).</p>
+<p>I like photography and used to be a big film geek. There is a certain beauty to the great mechanical design of analog cameras. One of such great design is the Olympus OM-1, my daily driver.</p>
+
+<p>Although I'm not a big travel geek, I have traveled to a fair share of countries around the world: 🇻🇳🇭🇺🇨🇳🇦🇪🇶🇦🇭🇷🇦🇹🇸🇰🇨🇿🇩🇪🇮🇹🇸🇮🇫🇮🇬🇧🇹🇷🇺🇸🇫🇷🇨🇭🇲🇾🇸🇬🇪🇪</p>
 
 <h3>Contact</h3>
 
