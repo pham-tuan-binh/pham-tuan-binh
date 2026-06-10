@@ -30,7 +30,7 @@
 
 <p>I used to launch products on <a href="https://www.producthunt.com/@binhpham">Product Hunt</a>, to which I've been featured 3 times. I also was a part of multiple hacker houses and fellowships around the world, from <a href="https://www.fr8.vc">FR8</a>, to <a href="https://sf2.sh">The Residency</a>, to <a href="https://joinpluto.io/">LocalHost</a>, to <a href="https://bevisioneers.world/">BeVisionaries Mercedes Benz</a> and <a href="https://www.southparkcommons.com">South Park Commons</a>.</p>
 
-<p>I'm proficient in a range of technology from <b>Cloud (certified as an AWS Developer Associate, the youngest in Vietnam actually, got it when I was 18)</b> to <b>Network (CCNA and 4G/5G Networking)</b> to <b>Digital IC design and web applications</b>.</p>
+<p>I'm proficient in a range of technology from infra (youngest in Vietnam to get aws certified - dev assoc, got it when I was 18) to networking (ccna-level and 4G/5G networks) to digital ic design (verilog, vhdl) and web.</p>
 
 <h3>Other Interests</h3>
   
